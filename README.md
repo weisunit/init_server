@@ -1,12 +1,8 @@
 # 服务器初始化脚本
 
 这是一个用于CentOS和Ubuntu服务器初始化的Shell脚本，可以自动完成系统配置、软件安装、安全加固等任务。
-<<<<<<< HEAD
-脚本集成了LinuxMirrors https://github.com/SuperManito/LinuxMirrors，特此鸣谢
-
-=======
 脚本集成了LinuxMirrors https://github.com/SuperManito/LinuxMirrors，特此鸣谢！
->>>>>>> 7626a1c (111)
+
 ## 功能特点
 
 - 自动检测并更换国内镜像源
