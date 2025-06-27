@@ -1,6 +1,7 @@
 # 服务器初始化脚本
 
 这是一个用于CentOS和Ubuntu服务器初始化的Shell脚本，可以自动完成系统配置、软件安装、安全加固等任务。
+脚本集成了LinuxMirrors https://github.com/SuperManito/LinuxMirrors，特此鸣谢
 
 ## 功能特点
 
